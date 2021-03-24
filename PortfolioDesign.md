@@ -5,7 +5,7 @@
 * [35 Best Graphic Design Portfolio Examples + Tips To Build Your Own](https://www.shillingtoneducation.com/blog/graphic-design-portfolio/)
 
 
-# Example Design Portfolios
+# Example Simple Design Portfolios
 
 ## Easy online CV
 * [CV – Mindful professional profiles](https://read.cv/)
@@ -22,6 +22,8 @@
 * [Shannon McNamara](https://spark.adobe.com/page/uMXmODG4I2QQB/)
 * [Gary Shear](https://spark.adobe.com/page/RUestmsVHFVcK/)
 * [Sydnei’s Portfolio](https://spark.adobe.com/page/wF8W0IyeANnUn/)
+
+# Example Website Portfolios
 
 ## Designer Websites
 * [Nicolas Paries, Creative Direction & Design](http://nicolasparies.com/)
