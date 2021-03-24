@@ -45,7 +45,6 @@
 * [Home - Maria Marie](https://mariamarie.com/)
 * [Lotta Nieminen](https://www.lottanieminen.com/)
 * [Shanti Sparrow Graphic Design & Illustration](https://www.shantisparrow.com/)
-* [&Walsh](https://andwalsh.com/)
 * [Anthony Burrill](https://anthonyburrill.com/)
 * [MARLEIGH CULVER](https://www.marleighculver.com/)
 * [JamFactory - Portfolio of Designer & Director Gavin Strange](https://www.jam-factory.com/)
@@ -55,6 +54,7 @@
 * [Yul Moreau, Digital Art Director](http://y78.fr/)
 
 ## Studios and Agencies
+* [&Walsh](https://andwalsh.com/)
 * [Studio Feixen](https://www.studiofeixen.ch/)
 * [Buzzworthy: NYC Web Design & Digital Marketing Agency](https://buzzworthystudio.com/)
 * [ToyFight®](https://toyfight.co/)
